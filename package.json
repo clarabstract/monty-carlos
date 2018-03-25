@@ -4,9 +4,11 @@
   "private": true,
   "author": "ruyasan@gmail.com",
   "dependencies": {
+    "jstat": "^1.7.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
-    "react-scripts": "1.1.1"
+    "react-scripts": "1.1.1",
+    "simple-statistics": "^5.3.1"
   },
   "scripts": {
     "start": "react-scripts start",
